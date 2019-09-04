@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ipfinder"
-  s.version      = "v1.0.0"
+  s.version      = "1.0.0"
   s.summary      = "Official Swift client library for IPfinder."
   s.description  = <<-DESC
                    Official Swift client library for IPfinder
@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
                    -    Get Domain IP history (total_ip, list_ip,organization,asn ....)
                    -    Get list Domain By ASN, Country,Ranges (select_by , total_domain , list_domain ....)
                    DESC
-                   
+
   s.homepage     = "https://ipfinder.io/"
   s.license      = 'Apache License, Version 2.0'
   s.author       = {'Mohamed Ben rebia' => 'mohamed@ipfinder.io'}
