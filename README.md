@@ -24,7 +24,7 @@ See the [official documentation](https://ipfinder.io/docs).
 ## Installation
 Installing using Swift Package Manager:
 ```swift
-.package(url: "https://github.com/dduan/ipfinder.git",  from: "0.8.0")
+.package(url: "https://github.com/dduan/ipfinder.git",  from: "1.0.0")
 ```
 
 ## With `free` TOKEN
